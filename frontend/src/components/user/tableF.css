@@ -1,0 +1,15 @@
+td.btn-op{
+  display: flex;
+}
+
+.table td,.table th{
+  border-color: var(--ft-white);
+}
+
+.table thead th {
+  border-bottom: 5px solid var(--ft-white);
+}
+
+.form-control{
+  border: 1px solid var(--ft-white);
+}

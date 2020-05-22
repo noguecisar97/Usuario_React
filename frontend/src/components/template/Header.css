@@ -1,0 +1,10 @@
+header.header {
+  background-color: var(--ft-white);
+  padding: 0px 15px;
+  overflow: hidden;
+  color: var(--ft-dark);
+}
+
+header.header p{
+  font-size: 1rem;
+}

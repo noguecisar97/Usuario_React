@@ -1,0 +1,5 @@
+main > div{
+  background-color: var(--ft-dark);
+  color: var(--ft-white);
+  box-shadow: 0 0 15px #0004 ;
+}

@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Julio Cesar Barreto Nogueira",
+      "email": "cesarsco15@gmail.com"
+    },
+    {
+      "name": "Rony Novais",
+      "email": "ronynovais@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Enio Aires",
+      "email": "enio.aires@hotmail.com",
+      "id": 3
+    },
+    {
+      "name": "Mateus Alves",
+      "email": "mateus.alves@gmail.com.br",
+      "id": 5
+    },
+    {
+      "name": "Danilo Donato",
+      "email": "danilorock83@hotmail.com",
+      "id": 6
+    }
+  ],
+  "Admins": [
+    {
+      "id": 1,
+      "name": "Julio Cesar Barreto Nogueira",
+      "email": "cesarnogueira17@gmail.com",
+      "senha": 12345
+    }
+  ]
+}
